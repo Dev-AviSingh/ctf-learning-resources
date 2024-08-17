@@ -42,9 +42,9 @@
 
 To learn and practice CTFs, utilise the following website:
 
-1. ctflearn.com
-2. picoctf.com
-3. overthewire.org
+1. [CTFLearn](https://ctflearn.com/)
+2. [picoCTF](https://picoctf.org/)
+3. [OverTheWire](https://overthewire.org/wargames/)
 
 [CTF Tutorials For All Domains](https://www.youtube.com/watch?v=-PvKBido90I&list=PLmpHrYT9y1Lyjbpq6LPtKC8RUnSyaf0Te)
 

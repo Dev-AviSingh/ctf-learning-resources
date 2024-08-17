@@ -25,6 +25,7 @@
 4. URL structure
 5. How does a server work.
 6. A general idea of what happens when you surf a site.
+7. HTML, CSS, JS, SQL. (Basics)
 
 [How do websites work](https://www.youtube.com/watch?v=hJHvdBlSxug)
 [Playlist for web fundamentals](https://www.youtube.com/watch?v=eesqK59rhGA&list=PLSyLGd0D0b4RNjrUtbGAG1ejmEv1ZF5Ma)
